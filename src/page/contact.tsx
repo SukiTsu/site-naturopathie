@@ -7,7 +7,8 @@ const Contact =({}) => {
             <div className="contact-info">
                 <div className="contact-details">
                     <h2>Horaires et rendez-vous</h2>
-                    <p>Pour prendre rendez-vous, contatez-moi ou envoyez moi un mail aux coordonnées si dessous</p>
+                    <p>Pour prendre <strong>rendez-vous en ligne</strong>, vous allez aller à cette adresse: <a href="https://www.kalae.com/fr_FR/praticiens/valerie-dartout-le-vesinet">Kalaé.fr</a>.<br></br>
+                    Ou alors <strong>contatez-moi</strong> ou envoyez moi un <strong>mail</strong> aux coordonnées si dessous:</p>
                     <p><strong>Téléphone : </strong>06 17 54 10 60</p>
                     <p><strong>Email : </strong>valerie.dartout@gmail.com</p>
                     <p>Le Lundi et Mardi au cabinet : Le Vésinet Centre ou à votre domicile en semaine</p>
